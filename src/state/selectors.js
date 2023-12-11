@@ -10,4 +10,4 @@ const charCounterState = selector({
   },
 });
 
-export default charCounterState;
+export default charCounterState
